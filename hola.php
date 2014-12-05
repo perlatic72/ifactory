@@ -1,7 +1,3 @@
-<?
-php
-e
-cho “Probando
-Git
-”;
+<?php
+echo "probando Git";
 ?>
